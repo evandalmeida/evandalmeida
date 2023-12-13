@@ -56,6 +56,11 @@ Data-driven Full-Stack Software Engineer with a strong foundation in Python and 
 </center>
 <br/>
 
+
+## ✅ Certifications & Licences 
+- Software Engineering - Flatiron School BootCamp 🏅
+  
+
 ## 🎓 Education
 - Software Engineering - Flatiron School BootCamp 💻
 - BS in Integrative Neuroscience from Binghamton University, NY 🎓
