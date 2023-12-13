@@ -17,9 +17,7 @@ Data-driven Full-Stack Software Engineer with a strong foundation in Python and 
         <td align="center" style="border:1px solid #3A424A">
             <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
         </td>
-    </tr>
-    <tr>
-        <td align="center" style="border:1px solid #3A424A">
+         <td align="center" style="border:1px solid #3A424A">
             <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
         </td>
         <td align="center" style="border:1px solid #3A424A">
@@ -27,6 +25,9 @@ Data-driven Full-Stack Software Engineer with a strong foundation in Python and 
         </td>
     </tr>
     <tr>
+        <td align="center" style="border:1px solid #3A424A">
+        <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white">
+        </td>
         <td align="center" style="border:1px solid #3A424A">
             <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
         </td>
@@ -37,7 +38,6 @@ Data-driven Full-Stack Software Engineer with a strong foundation in Python and 
             <img src="https://img.shields.io/badge/SQL-%23CC2927.svg?style=for-the-badge&logo=sql&logoColor=white">
         </td>
     </tr>
-
    <tr>
     <td align="center" style="border:1px solid #3A424A">
         <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
