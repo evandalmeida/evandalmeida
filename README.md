@@ -8,4 +8,4 @@
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@edalmei1)
 
 ## 🚀 About Me
-Results-driven Full-Stack Software Engineer with a strong foundation in Python and Javascript, eager to contribute expertise in desigining, developing, and maintaining scalbale software solutions. Excited to collaborate with cross-functional teams, apply advanced programming techniques, and ensure code quality to drive innovation and enchange the user experience. 
+Data-driven Full-Stack Software Engineer with a strong foundation in Python and Javascript, excited to contribute expertise in desigining, developing, and maintaining scalbale software solutions. Eager to collaborate with cross-functional teams, apply advanced programming techniques, and ensure code quality to innovate and enhance user experience. 
