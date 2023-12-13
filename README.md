@@ -1,3 +1,7 @@
+<div style="margin-bottom: 30px;">
+  <img align="center" width="100%" src= "assets/banner.png" />
+</div>
+
 # 👋 Hello, I'm Evan D'Almeida
 <!-- [<img src="https://img.shields.io/badge/github-%231DA1F2.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/evandalmeida)  -->
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/evan-d-almeida-31212922b/)
